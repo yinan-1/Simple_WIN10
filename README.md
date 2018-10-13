@@ -20,7 +20,7 @@
 
 其版本也是各不相同：
 
-![datalist](https://github.com/yinan-1/Simple_WIN10/image_list/1.1.png)
+![datalist](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/1.1.png)
 
 在 WIN10 之前还有很大一部分人任坚守着早期的版本。有各种原因，在这里不一一解析。
 
@@ -81,7 +81,7 @@ Windows 10 是微软开发的作业系统。简称 WIN10 （后面统一用 WIN1
 WIN10 自带的 EDGE 游览器已经能满足大多数游览网页的需求，卸载你其他的游览器吧。（建议只保留 GOOGLE
 CHROME）
 
-![EDGE](https://github.com/yinan-1/Simple_WIN10/image_list/2.1.png)
+![EDGE](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/2.1.png)
 
 点击“☆”可保存书签或加入阅读列表。
 
@@ -97,7 +97,7 @@ CHROME）
 
 *p.s.这是我下载的插件*
 
-![apk](https://github.com/yinan-1/Simple_WIN10/image_list/2.2.png)
+![apk](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/2.2.png)
 
 注：
 
@@ -117,7 +117,7 @@ CHROME）
 
 同样根据喜好自行下载使用：
 
-![temp](https://github.com/yinan-1/Simple_WIN10/image_list/2.3.png)
+![temp](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/2.3.png)
 
 顾名思义，不展开介绍它们的作用。有兴趣的可以自己发掘更有意思的插件并邮件推荐给我。
 
@@ -197,15 +197,15 @@ OneDrive 可以用来当云盘，上传文件后你可以用任何设备下载�
 
 点击左上角的“设置”
 
-![set](https://github.com/yinan-1/Simple_WIN10/image_list/3.1.png)
+![set](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/3.1.png)
 
 点击“账户”
 
-![id](https://github.com/yinan-1/Simple_WIN10/image_list/3.2.png)
+![id](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/3.2.png)
 
 找到POP……服务
 
-![pop](https://github.com/yinan-1/Simple_WIN10/image_list/3.3.png)
+![pop](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/3.3.png)
 
 点击开启即可
 
@@ -274,7 +274,7 @@ UWP 软件的魅力。
 
 #### QQ：
 
-![qq](https://github.com/yinan-1/Simple_WIN10/image_list/5.1.png)
+![qq](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/5.1.png)
 
 这是 UWP 版 QQ 的登陆界面，相较于桌面版 QQ ，它更为简洁。
 
@@ -297,7 +297,7 @@ UWP 软件的魅力。
 
 在 Microsoft Store 里，微信有两个版本。
 
-![wechat](https://github.com/yinan-1/Simple_WIN10/image_list/5.2.png)
+![wechat](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/5.2.png)
 
 一个是“微信 For Windows”一个是“微信（UWP）”。
 
@@ -342,17 +342,17 @@ UWP 软件的魅力。
 MacOS 下有一个快速预览的功能十分好用，WIN10
 应用商店有款类似的软件叫“QuickLook”。它可以用来快速预览多数格式下的文件内容，使用方法也十分简单：选中文件按空格键即可；
 
-![quick](https://github.com/yinan-1/Simple_WIN10/image_list/6.1.png)
+![quick](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/6.1.png)
 
 你可以在 Microsoft Store 里搜索“QuickLook”下载安装。
 
 比如你可以用它快速预览 PSD 格式的文件而不需要打开 Adobe Photoshop。
 
-![image](https://github.com/yinan-1/Simple_WIN10/image_list/6.2.png)
+![image](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/6.2.png)
 
 它支持几乎所有你能用到的格式，另外你还可以为它安装插件以支持更多格式。
 
-![support](https://github.com/yinan-1/Simple_WIN10/image_list/6.3.png)
+![support](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/6.3.png)
 
 最后说明一下，它是开源免费的软件，请放心使用。
 
@@ -370,7 +370,7 @@ MacOS 下有一个快速预览的功能十分好用，WIN10
 
 你可以在 Microsoft Store 里搜索“8 Zip”下载安装。
 
-![zip](https://github.com/yinan-1/Simple_WIN10/image_list/6.4.png)
+![zip](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/6.4.png)
 
 ##### 格式转换：
 
@@ -382,7 +382,7 @@ MacOS 下有一个快速预览的功能十分好用，WIN10
 
 ##### Adobe Systems：
 
-![adobe](https://github.com/yinan-1/Simple_WIN10/image_list/6.5.jpg)
+![adobe](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/6.5.jpg)
 
 多媒体设计相关可选择 Adobe 系列（包括图片处理，影视后期包装，设计等）
 
@@ -404,7 +404,7 @@ MacOS 下有一个快速预览的功能十分好用，WIN10
 
 你可以在 Microsoft Store 里搜索“Inkscape”下载安装。
 
-![inkscap](https://github.com/yinan-1/Simple_WIN10/image_list/6.6.png)
+![inkscap](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/6.6.png)
 
 其可操作性不输其他任何收费软件。
 
@@ -433,11 +433,11 @@ MacOS 下有一个快速预览的功能十分好用，WIN10
 
 一般情况使用 Bing 即可，简单、高效、未被墙。
 
-![bing](https://github.com/yinan-1/Simple_WIN10/image_list/7.1.png)
+![bing](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/7.1.png)
 
 文献资料，先 DuckDuckGo 后 Google ，前者剔重算法完胜后者，而且搜索过的关键字绝对不记入 Cooking。（从大陆发起的访问自动被转向到香港服务器，要访问美国服务器可用如下网址 <https://www.google.com/ncr> ，其中，ncr 为 no country redirect，即不根据访问请求发起国家进行重定向）
 
-![duck](https://github.com/yinan-1/Simple_WIN10/image_list/7.2.png)
+![duck](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/7.2.png)
 
 - 建议用英文搜索
 - 可用繁体字进行搜索（台湾翻译或原创的文章有的质量很高）
@@ -517,7 +517,7 @@ Google 有一套 WEB 应用程序引擎 Google App Engine（GAE），这套引�
 
 你大可放心的卸载所有第三方安全软件，WIN10 自带的“安全中心”足够保证你数据的安全了。
 
-![defender](https://github.com/yinan-1/Simple_WIN10/image_list/8.1.png)
+![defender](https://github.com/yinan-1/Simple_WIN10/blob/master/image_list/8.1.png)
 
 输入法也只用自带的。
 
